@@ -2,7 +2,7 @@
 
 ## Description
 
-Your project is a web application that allows users to log in using Google authentication, set their unique username, and upload a profile photo. Users can confirm the availability of a username before setting it. The application relies on Firebase and Firebase Admin for authentication and data storage.
+Link Tree is a web application that allows users to log in using Google authentication, set their unique username, and upload a profile photo. Users can confirm the availability of a username before setting it. The application relies on Firebase and Firebase Admin for authentication and data storage.
 
 ## Features
 
